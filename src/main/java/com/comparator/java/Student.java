@@ -7,7 +7,7 @@ import java.util.List;
 
 
 /**
- * Sorting with comparator
+ * Sorting with comparator. We can sort with multiple attibutes using comparator.
  */
 class Student {
     int roll;

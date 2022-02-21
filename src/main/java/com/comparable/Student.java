@@ -5,7 +5,8 @@ import java.util.Collections;
 import java.util.List;
 
 /**
-     * sorting with one property using comparable
+     * sorting with one property using comparable. Comparable should be implemented
+ * in the class where we need to compare.
      */
 
     class Student implements Comparable<Student> {

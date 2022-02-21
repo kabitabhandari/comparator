@@ -1,8 +1,8 @@
-com/comparable/Student.java
- com.comparable.Main
- com.comparable.Student
 com/comparator/java/Student.java
  com.comparator.java.Main
  com.comparator.java.Main$1
  com.comparator.java.Main$NameComparator
  com.comparator.java.Student
+com/comparable/Student.java
+ com.comparable.Main
+ com.comparable.Student
