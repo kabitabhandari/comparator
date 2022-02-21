@@ -1,8 +1,9 @@
+package com.comparator.java;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-
 
 
 /**
@@ -53,6 +54,7 @@ class Main{
 
         // to sort with name
         Collections.sort(myList, new NameComparator());
+        System.out.println();
 
         for(Object i : myList){
             System.out.println(i);
